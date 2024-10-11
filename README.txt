@@ -1,8 +1,9 @@
 * oop - ex2
+* exercise to practice the use of C++ templates
 =========================
 
 -------------------------
-*Yehu Raccah - 315346726
+*Yehu Raccah
 -------------------------
 
 * console app for filling a 101 form.
